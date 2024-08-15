@@ -1,0 +1,8 @@
+https://github.com/ascust/3DMM-Fitting-Pytorch
+https://github.com/Yinghao-Li/3DMM-fitting
+https://github.com/sicxu/Deep3DFaceRecon_pytorch
+https://github.com/microsoft/Deep3DFaceReconstruction
+https://github.com/TadasBaltrusaitis/OpenFace
+https://github.com/hzxie/Pix2Vox
+https://github.com/yerfor/GeneFacePlusPlus
+https://github.com/nageshsinghc4/Face-generation-GAN
