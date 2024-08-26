@@ -1,0 +1,32 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "img/128.png",
+         "16": "img/16.png",
+         "256": "img/256.png",
+         "48": "img/48.png"
+      },
+      "default_popup": "index.html",
+      "default_title": "Click to open Flappy Bird popup"
+   },
+   "background": {
+      "service_worker": "update.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_AppDesc__",
+   "homepage_url": "https://flappybird.ee",
+   "icons": {
+      "128": "img/128.png",
+      "16": "img/16.png",
+      "256": "img/256.png",
+      "48": "img/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApM7/qmLF1i7+yQpOZFpjITTFUC6DqINEcl+9gMOn4JVcbLa6ext22OizoArLOVTtl59ZSIr9jEARssQXvDCR9dza+iqOpE6iGneM3Czywg4so+urMAPhoxNZuoGzrWxe6XjyB7dRXax56mQVS8wx5QJT0RwFUmKjeEXCC+3oHfybVDYaKw4gQdsLyeaPLlyDJjGI9EjfeZ44kUNBAvqEPtPkZJE/NrrvC+AHqpUSMgaZdeqR/8+Lrl1KSwJdHuKOvLT87W16c5AnTOCnmiySjogBKLMDhkuWQrh2zY4DQ0bmaKYqcX0ipMnJ9Qd0LIWlrj8bWF66Sq6vu/eMzqjT0QIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_AppName__",
+   "offline_enabled": true,
+   "options_page": "index.html",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7.0",
+   "version_name": "1.7.0"
+}
